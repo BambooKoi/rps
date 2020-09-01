@@ -21,6 +21,11 @@ If you're unfamiliar with the game Rock Paper Scissors, the rules are simple. He
     - Scissors beats Paper
     - Paper beats Scissors
     - Matching choices will result in a tie
+    
+You may also use these controls at any point during the game:
+- `help` to pull up the help screen.
+- `save` to save your score.
+- `quit` to quit the game. There will also be an option to save and quit here as well.
 
 ### Demo
 Below is a demo of the game running. You can save your progress at any point by typing and entering `save`.
