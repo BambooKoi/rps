@@ -46,7 +46,7 @@ Below is a demo of the game running. You can save your progress at any point by 
 - Download the `rps.py`.
 - Run `rps.py` and enjoy.
 
-## License ![Github](https://img.shields.io/github/license/BambooKoi/rps)
+## License ![Github]
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Donations (Optional)
