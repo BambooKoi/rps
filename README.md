@@ -14,13 +14,13 @@ Play an infinite game of Rock Paper Scissors. Score progress is save-able.
 ### Rules
 If you're unfamiliar with the game Rock Paper Scissors, the rules are simple. Here are the instructions specific to this version:
 1. The player chooses Rock, Paper, or Scissors.
-  - The player does this by typing `r` for rock, `p` for paper, or `s` for scissors and then hitting `enter`.
+    - The player does this by typing `r` for rock, `p` for paper, or `s` for scissors and then hitting `enter`.
 2. The computer will randomly make a choice.
 3. Both the player's and computer's choices will be displayed on screen and who won.
-  - Rock beats Scissors
-  - Scissors beats Paper
-  - Paper beats Scissors
-  - Matching choices will result in a tie
+    - Rock beats Scissors
+    - Scissors beats Paper
+    - Paper beats Scissors
+    - Matching choices will result in a tie
 
 ### Demo
 Below is a demo of the game running. You can save your progress at any point by typing and entering `save`.
@@ -41,7 +41,7 @@ Below is a demo of the game running. You can save your progress at any point by 
 - Download the `rps.py`.
 - Run `rps.py` and enjoy.
 
-## License https://img.shields.io/github/license/BambooKoi/rps
+## License ![Github](https://img.shields.io/github/license/BambooKoi/rps)
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Donations (Optional)
